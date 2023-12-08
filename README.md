@@ -4,6 +4,7 @@ LAB Bench power supply with programmable Constant Voltage and Constant current f
 Output Votage Range : 0-40V and 0-Amps 
 Short Circuit Protection
 
+Email or Message me for complete PCB and schematic.
 
 
 
